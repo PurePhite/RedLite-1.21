@@ -1,0 +1,10 @@
+{
+  "item.redlite.super_red_stick": "超酷的 紅色 棒棒",
+  "item.redlite.red_core": "超酷的 紅色 核心",
+
+  "block.redlite.logic_block": "邏輯閘",
+  "block.redlite.delay_block": "延遲器",
+  "block.redlite.pulse_block": "脈衝延遲器",
+
+  "creativetab.redlite.redlite": "輕紅石"
+}
