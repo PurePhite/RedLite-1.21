@@ -1,0 +1,27 @@
+[255月2025 20:19:31.175] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\user\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, redlite, --all, --output, C:\mc\RedLite-1.21\src\generated\resources, --existing, C:\mc\RedLite-1.21\src\main\resources]
+[255月2025 20:19:31.178] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.6+7-LTS
+[255月2025 20:19:31.180] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.6 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[255月2025 20:19:31.340] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[255月2025 20:19:31.490] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/user/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[255月2025 20:19:32.484] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[255月2025 20:19:33.516] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\user\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, redlite, --all, --output, C:\mc\RedLite-1.21\src\generated\resources, --existing, C:\mc\RedLite-1.21\src\main\resources]
+[255月2025 20:19:39.257] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[255月2025 20:19:39.257] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[255月2025 20:19:39.294] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[255月2025 20:19:39.941] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [redlite]
+[255月2025 20:19:40.045] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/user/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.11.17-1.21.1/forge-1.21-51.0.33_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[255月2025 20:19:40.045] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/user/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.11.17-1.21.1/forge-1.21-51.0.33_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[255月2025 20:19:40.258] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[255月2025 20:19:40.433] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 174 ms
+[255月2025 20:19:40.433] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[255月2025 20:19:40.474] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 39 ms
+[255月2025 20:19:40.474] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id redlite
+[255月2025 20:19:40.489] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id redlite finished after 13 ms
+[255月2025 20:19:40.489] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id redlite
+[255月2025 20:19:40.490] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id redlite finished after 0 ms
+[255月2025 20:19:40.490] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: redlite
+[255月2025 20:19:40.495] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: redlite finished after 5 ms
+[255月2025 20:19:40.496] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: redlite
+[255月2025 20:19:40.593] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: redlite finished after 97 ms
+[255月2025 20:19:40.594] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 336 ms
+[255月2025 20:19:40.599] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 26, old count: 15, new count: 27, removed stale: 0, written: 11

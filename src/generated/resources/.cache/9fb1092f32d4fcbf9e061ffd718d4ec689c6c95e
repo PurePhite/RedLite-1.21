@@ -1,0 +1,11 @@
+// 1.21	2025-05-25T20:19:40.5951846	Recipes
+8441cf8119d8a823ff6d86af12a863b0e59fa177 data/redlite/advancement/recipes/misc/red_core.json
+bbbd370677b6c637e5138f7d0fb3c5edb8681b11 data/redlite/advancement/recipes/misc/super_red_stick.json
+cf306bda9e8b39d3fc0315c442dd400e234df16d data/redlite/advancement/recipes/redstone/delay_block.json
+d45950db071e45d165ba5e91c32be92382b2af64 data/redlite/advancement/recipes/redstone/logic_block.json
+a4f0fd6aa2d962affc8cd0eaba87f7efdd90ff0d data/redlite/advancement/recipes/redstone/pulse_block.json
+60b6f728cdc50ef265301c073ba2adbbb2b0d7b0 data/redlite/recipe/delay_block.json
+d862050b0153e721ea19512c223753214bb3d766 data/redlite/recipe/logic_block.json
+2774c23301a95f3e7ba1b4ee42fc5d2ef8ee439d data/redlite/recipe/pulse_block.json
+2cb80705c17b7d47f91b857f1309b96c0c13ba1c data/redlite/recipe/red_core.json
+9f67f14489531ea3b552272baf1702b6488361dc data/redlite/recipe/super_red_stick.json

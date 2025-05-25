@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "redlite:block/delay_block"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+// 1.21	2025-05-25T18:44:21.18615	Loot Tables
+d2db569167b1a70e1fb254ab3da1b139a3eeaee4 data/redlite/loot_table/blocks/delay_block.json
+fa3974e28c430041b2c9bcb61b74c3b174fede9f data/redlite/loot_table/blocks/logic_block.json
+e8c52e078085a09c3a840bd2f99dbba417d5a402 data/redlite/loot_table/blocks/pulse_block.json

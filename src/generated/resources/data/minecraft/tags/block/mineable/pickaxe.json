@@ -1,0 +1,7 @@
+{
+  "values": [
+    "redlite:logic_block",
+    "redlite:delay_block",
+    "redlite:pulse_block"
+  ]
+}
